@@ -3,8 +3,12 @@
     --main-color: #969696 ;
 
 }
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .navbar{
-    transition: backgroung-color 2s;
+ transition: backgroung-color 2s
 }
 header {
     background-image: url(../photos/images/drew-coffman-1872.jpg);
