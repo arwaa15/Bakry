@@ -1,0 +1,60 @@
+:root
+{
+    --main-color: #969696 ;
+
+}
+.navbar{
+    transition: backgroung-color 2s;
+}
+header {
+    background-image: url(../photos/images/drew-coffman-1872.jpg);
+
+    padding: 20%;
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+
+}
+
+.scroll{
+    width: 35px;
+    height: 50px;  
+    border: 2px solid white;
+    border-radius: 40%;
+    margin: auto;
+    margin-top: 40px;
+}
+.content-secion{
+    background-color: rgba(235, 231, 231, 0.971);
+} 
+
+.blog{
+    background-color:#403d38 ;
+
+  
+}
+p.conent{
+    color: var(--main-color);
+}
+ul li{
+    color: var(--main-color);
+}
+.imge {
+    background-color: #353330;
+}
+.social-madia{
+    font-size: 30px;
+}
+.facebook:hover{
+    color:blue;
+}
+.twitter:hover{
+    color:rgb(67, 187, 230) ;
+}
+.google-plus:hover{
+    color: rgb(255, 0, 0);
+} 
+.linkedin-in:hover{
+    color:  rgba(107, 170, 238, 0.915);
+
+}
